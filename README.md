@@ -42,9 +42,10 @@ https://www.python.org/downloads/release/python-370/
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## To Run Opencue on a Host Machine 
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+We do the same proccess for seting up RQD, PYCUE, PYOUTLINE and CUESUBMIT but when i tried submitting job i got this error "Render command not found" and below is the link to the solution. *in my case it worked
+https://github.com/AcademySoftwareFoundation/OpenCue/issues/1349
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
 - **What you'll learn**: How to build a GitHub Pages site.
