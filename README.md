@@ -22,11 +22,11 @@ https://www.python.org/downloads/release/python-370/
 # Create a Dicrectory on your prefeably drive in my case it's d: drive 
 1. opencue
 2. extract all the files inside this directory
-3. create a virtual enviroment
+3. create a virtual enviroment \
  `python -m venv venv`
-4. activate virtual enviroment
+4. activate virtual enviroment \
  `.\venv\Scripts\activate`
-5. navigate into pycue direcotry
+5. navigate into pycue direcotry \
  `cd pycue`
 
 </header>
