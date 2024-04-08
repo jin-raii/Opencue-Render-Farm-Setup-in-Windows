@@ -6,7 +6,11 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+Before we begin download prerequisite files: 
+* 1. Postgresql (any_latest_version)
+  2. Python 3.7/3.9 (in my case 3.7)
+  3. Download all the files from this link (https://github.com/AcademySoftwareFoundation/OpenCue/releases)
+  4. JavaSetup8u241.exe file 
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
