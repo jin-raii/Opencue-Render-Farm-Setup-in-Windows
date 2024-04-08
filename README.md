@@ -53,7 +53,7 @@ Huge Thanks to @angelali-ms for finding bugs in the code \
 - ADD **"SYSTEMDRIVE"** in `rqcore.py` 104 line
  `for variable in ["SYSTEMROOT", "APPDATA", "TMP", "COMMONPROGRAMFILES", "SYSTEMDRIVE"]:`
 
-## Maya Plugin error
+## Maya 2020 Plugin error
 I was using maya 2020 which uses python version 2.7 by default but opencue was installed using python vesrion 3.7 so couldn't get this to work in maya 2020. so , I used maya 2023 which uses python version 3.9 by default so i downloaded python version 3.9 and setup opencue with 3.9 version on host machine and voila opencue plugin showed up on the shelf of maya software and worked like a charm but i'm still facing with arnold file while rendering though. 
 
 
