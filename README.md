@@ -28,7 +28,9 @@ https://www.python.org/downloads/release/python-370/
  `.\venv\Scripts\activate`
 5. navigate into pycue direcotry \
  `cd pycue`
-
+6. install the  neccessary library \ `pip install -r requirements.txt`
+7. do the same for others
+   
 </header>
 
 <!--
