@@ -48,8 +48,8 @@ We do the same proccess for seting up RQD, PYCUE, PYOUTLINE and CUESUBMIT but wh
 https://github.com/AcademySoftwareFoundation/OpenCue/issues/1349
 
 ## "mayabatch.exe" Error Link
-https://github.com/AcademySoftwareFoundation/OpenCue/issues/1310
-Huge Thanks to @angelali-ms for finding bugs to the code 
+https://github.com/AcademySoftwareFoundation/OpenCue/issues/1310 \
+Huge Thanks to @angelali-ms for finding bugs in the code 
 ADD **"SYSTEMDRIVE"** in `rqcore.py` 104 line
  `for variable in ["SYSTEMROOT", "APPDATA", "TMP", "COMMONPROGRAMFILES", "SYSTEMDRIVE"]:`
 
