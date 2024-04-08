@@ -44,8 +44,16 @@ https://www.python.org/downloads/release/python-370/
 
 ## To Run Opencue on a Host Machine 
 
-We do the same proccess for seting up RQD, PYCUE, PYOUTLINE and CUESUBMIT but when i tried submitting job i got this error "Render command not found" and below is the link to the solution. *in my case it worked
+We do the same proccess for seting up RQD, PYCUE, PYOUTLINE and CUESUBMIT but when i tried submitting job i got this error "Render command not found" and below is the link to the solution. (in my case it worked)
 https://github.com/AcademySoftwareFoundation/OpenCue/issues/1349
+
+## "mayabatch.exe" Error Link
+https://github.com/AcademySoftwareFoundation/OpenCue/issues/1310
+Huge Thanks to @angelali-ms for finding bugs to the code 
+ADD **"SYSTEMDRIVE"** in `rqcore.py` 104 line
+ `for variable in ["SYSTEMROOT", "APPDATA", "TMP", "COMMONPROGRAMFILES", "SYSTEMDRIVE"]:`
+
+
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
 - **What you'll learn**: How to build a GitHub Pages site.
