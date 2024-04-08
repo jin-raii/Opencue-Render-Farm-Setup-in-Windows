@@ -7,13 +7,16 @@
   Add your open source license, GitHub uses MIT license.
 -->
 Before we begin download prerequisite files: 
-* 1. Postgresql (any_latest_version)
+  1. Postgresql (any_latest_version)
   2. Python 3.7/3.9 (in my case 3.7)
   3. Download all the files from this link (https://github.com/AcademySoftwareFoundation/OpenCue/releases)
   4. JavaSetup8u241.exe file 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+# Setting up Postgresql Database 
+1. Create a Database cuebot_local
+2. Create a User cuebot and give all the privilege access to cuebot users
+3. Right click on cuebot_local Database > Properties and assign cuebot user 
+4. Right click on cuebot_local Database > CREATE script > chose and open schema file (Alt + 0) or by navigating folder icon on top left and then run by mannualy or using F5 key on the keyboard (query return successfully) message should appear on the right bottom side of the screen
+5. do the same proccess for seed_data file 
 
 </header>
 
