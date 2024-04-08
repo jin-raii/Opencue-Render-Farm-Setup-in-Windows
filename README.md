@@ -19,8 +19,10 @@
 5. do the same proccess for seed_data file 
 # Download python from official website 
 https://www.python.org/downloads/release/python-370/
-# Create a Dicrectory on your prefeably drive in my case it's d: drive 
-1. opencue
+# Create a Dicrectory in my case it's d: drive 
+1. open cmd and type \
+ `d:`
+ `mkdir opencue`
 2. extract all the files inside this directory
 3. create a virtual enviroment \
  `python -m venv venv`
@@ -28,7 +30,8 @@ https://www.python.org/downloads/release/python-370/
  `.\venv\Scripts\activate`
 5. navigate into pycue direcotry \
  `cd pycue`
-6. install the  neccessary library \ `pip install -r requirements.txt`
+6. install the  neccessary library \
+ `pip install -r requirements.txt`
 7. do the same for others
    
 </header>
